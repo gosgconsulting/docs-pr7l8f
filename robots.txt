@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tvmoj1.asiabola109.xyz/sitemap.xml
